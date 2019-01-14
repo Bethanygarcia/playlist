@@ -1,5 +1,6 @@
 h1 {
     text-align: center;
+    font-family: 'Homemade Apple', cursive;
 }
 
 #cart {
@@ -26,12 +27,16 @@ h1 {
     height: 100px;
     font-weight: bold;
     margin: 20px;
+    font-family: 'Rancho', cursive;
+
 }
 
 #artists p {
     font-size: 18px;
     height: 100px;
     margin: 20px;
+    font-family: 'Rancho', cursive;
+
 }
 
 #lengths p {
@@ -39,6 +44,8 @@ h1 {
     height: 100px;
     margin: 20px;
     text-align: right;
+    font-family: 'Rancho', cursive;
+
 }
 
 #links a {
@@ -47,20 +54,27 @@ h1 {
     height: 100px;
     font-weight: bold;
     margin: 20px;
+    font-family: 'Rancho', cursive;
+
 }
 
 #form {
     width: 75%;
     margin: 0 auto 20px auto;
     font-size: 18px;
+    font-family: 'Rancho', cursive;
 }
 
 input {
-    padding: 5px 10px;
-    font-size: 14px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-family: 'Rancho', cursive;
+
 }
 
 button {
-    font-size: 14px;
-    padding: 5px 10px;
+    font-size: 18px;
+    padding: 10px 20px;
+    font-family: 'Rancho', cursive;
+
 }
